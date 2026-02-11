@@ -1,50 +1,63 @@
-# Welcome to your Expo app 👋
+# 🤖 AI Pocket Agent
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+AI Pocket Agent is a full-stack AI-powered mobile assistant built with React Native and Expo.  
+It provides secure authentication, real-time AI chat, image support, and persistent chat history using Firebase.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
 
-   ```bash
-   npm install
-   ```
+- 🔐 Secure Google Authentication using Clerk  
+- 💬 Real-time AI chat experience  
+- 🖼️ Image upload support in chat  
+- 🕘 Chat history management (view & delete chats)  
+- 📱 Cross-platform support (Android & iOS via Expo)  
+- 🧱 Production-ready architecture with Expo Router  
+- 🔄 OTA updates using Expo EAS  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Tech Stack
 
-In the output, you'll find options to open the app in a
+- Frontend: React Native, Expo, Expo Router  
+- Authentication: Clerk (Google OAuth)  
+- Backend: Firebase Firestore  
+- Storage: Firebase Storage  
+- AI Integration: Custom AI API  
+- Version Control: Git & GitHub  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📸 Screenshots
 
-## Get a fresh project
+### Welcome Screen
+![Welcome](assets/images/welcome.jpeg)
 
-When you're ready, run:
+### Home Screens
+![Home](assets/images/home1.jpeg)
+![Home 2](assets/images/home2.jpeg)
 
-```bash
-npm run reset-project
-```
+### Chat
+![Chat](assets/images/chat.jpeg)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Message Options
+![Message Options](assets/images/messageOptions.jpeg)
 
-## Learn more
+### History
+![History](assets/images/history.jpeg)
 
-To learn more about developing your project with Expo, look at the following resources:
+### Profile
+![Profile](assets/images/profile.jpeg)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### My Agents
+![My Agents](assets/images/myAgents.jpeg)
 
-## Join the community
+### Create Agent Flow
+![Create Agent](assets/images/createAgent.jpeg)
+![Create Agent Step 2](assets/images/createAgent2.jpeg)
+![Create Agent Chat](assets/images/createAgentChat.jpeg)
 
-Join our community of developers creating universal apps.
+### Logout
+![Logout](assets/images/Logout.jpeg)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
