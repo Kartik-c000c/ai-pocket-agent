@@ -31,33 +31,65 @@ It provides secure authentication, real-time AI chat, image support, and persist
 ## 📸 Screenshots
 
 ### Welcome Screen
-![Welcome](assets/images/welcome.jpeg)
-
-### Home Screens
-![Home](assets/images/home1.jpeg)
-![Home 2](assets/images/home2.jpeg)
-
-### Chat
-![Chat](assets/images/chat.jpeg)
-
-### Message Options
-![Message Options](assets/images/messageOptions.jpeg)
-
-### History
-![History](assets/images/history.jpeg)
-
-### Profile
-![Profile](assets/images/profile.jpeg)
-
-### My Agents
-![My Agents](assets/images/myAgents.jpeg)
-
-### Create Agent Flow
-![Create Agent](assets/images/createAgent.jpeg)
-![Create Agent Step 2](assets/images/createAgent2.jpeg)
-![Create Agent Chat](assets/images/createAgentChat.jpeg)
-
-### Logout
-![Logout](assets/images/Logout.jpeg)
+<p align="center">
+  <img src="assets/images/welcome.jpeg" width="350"/>
+</p>
 
 ---
+
+### Home Screens
+<p align="center">
+  <img src="assets/images/home1.jpeg" width="350"/>
+  <img src="assets/images/home2.jpeg" width="350"/>
+</p>
+
+---
+
+### Chat
+<p align="center">
+  <img src="assets/images/chat.jpeg" width="350"/>
+</p>
+
+---
+
+### Message Options
+<p align="center">
+  <img src="assets/images/messageOptions.jpeg" width="350"/>
+</p>
+
+---
+
+### History
+<p align="center">
+  <img src="assets/images/history.jpeg" width="350"/>
+</p>
+
+---
+
+### Profile
+<p align="center">
+  <img src="assets/images/profile.jpeg" width="350"/>
+</p>
+
+---
+
+### My Agents
+<p align="center">
+  <img src="assets/images/myAgents.jpeg" width="350"/>
+</p>
+
+---
+
+### Create Agent Flow
+<p align="center">
+  <img src="assets/images/createAgent.jpeg" width="300"/>
+  <img src="assets/images/createAgent2.jpeg" width="300"/>
+  <img src="assets/images/createAgentChat.jpeg" width="300"/>
+</p>
+
+---
+
+### Logout
+<p align="center">
+  <img src="assets/images/Logout.jpeg" width="350"/>
+</p>
