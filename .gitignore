@@ -5,6 +5,7 @@ node_modules/
 
 # Expo
 .expo/
+.expo-shared/
 dist/
 web-build/
 expo-env.d.ts
@@ -28,16 +29,20 @@ yarn-error.*
 
 # macOS
 .DS_Store
-*.pem
 
-# local env files
+# ENV FILES (VERY IMPORTANT)
+.env
+.env.local
+.env.production
 .env*.local
 
-# typescript
+# TypeScript
 *.tsbuildinfo
 
+# Example apps
 app-example
 
-# generated native folders
-/ios
-/android
+# Generated native folders (Expo prebuild)
+ios/
+android/
+

@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "aipocketagent",
+    "scheme": "ai-pocket-agent",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.kart0iksharma_663.aipocketagent"
     },
     "web": {
       "output": "static",
@@ -38,11 +39,18 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "62605dd9-8979-43cf-ac94-894cdc5a737d"
+      }
     }
   }
 }
